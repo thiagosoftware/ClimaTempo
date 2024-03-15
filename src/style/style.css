@@ -12,6 +12,7 @@ body {
   align-items: center;
   justify-content: center;
   min-height: 100vh;
+  max-width: 250vw;
   background: linear-gradient(#3b82f6, #4a7dff);
 }
 
@@ -132,4 +133,9 @@ body {
 }
 #wind_icon {
   color: #7c3aed;
+}
+
+#alert {
+    text-align: center;
+    padding-top: 1px;
 }
